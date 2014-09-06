@@ -1,0 +1,10 @@
+{
+  "name": "express-example-1",
+  "description": "express test app",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "body-parser": "^1.7.0",
+    "express": "3.x"
+  }
+}
